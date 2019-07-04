@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5eca88118f6f6414dbef9db841745359
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - raketa: {fileID: 1650051202823992, guid: c270033e1e5228c40be387b501c2d277, type: 2}
+  - istirtasIs: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a33ff29c4c425d48b504488ab4bcf79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - meshas: {instanceID: 0}
+  - hitoParticle: {fileID: 198537984209914932, guid: 1a51bfda454239a41afb7dee687c6ac0,
+      type: 2}
+  - NaujasEnemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
